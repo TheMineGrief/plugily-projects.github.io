@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{121:function(p){p.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"plugily-projects","name":"plugily projects","count":1,"permalink":"/blog/tags/plugily-projects"}')}}]);
