@@ -1,0 +1,1 @@
+(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8873],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing our new Wiki","permalink":"/blog/new-wiki"}]}')}}]);
